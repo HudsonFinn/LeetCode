@@ -20,7 +20,7 @@ class MoveZeros {
 
     public static void main(String[] args) {
       MoveZeros test = new MoveZeros();
-      int[] nums = new int[] {0,1,0,3,12}
-      test.moveZeros(2);
+      int[] nums = new int[] {0,1,0,3,12};
+      test.moveZeros(nums);
     }
 }
